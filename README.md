@@ -1,6 +1,7 @@
 # Voting Backend (Express + Web3.js)
 
-A lightweight Node.js/Express backend that interacts with the **Voting.sol** smart contract deployed via Hardhat. It provides REST APIs for fetching candidates, adding candidates (owner-only), casting votes, and retrieving the winner. It is the backend service for the voting_hardhat project [here](https://github.com/DHRUVCHARNE/voting_hardhat)
+A lightweight Node.js/Express backend that interacts with the **Voting.sol** smart contract deployed via Hardhat. It provides REST APIs for fetching candidates, adding candidates (owner-only), casting votes, and retrieving the winner. It is the backend service for the voting_hardhat project [here](https://github.com/DHRUVCHARNE/voting_hardhat), and also a complete explanation of the whole project with tests and live demo are [here](https://www.youtube.com/watch?v=Mkg2qdqj4YE).
+
 
 This backend communicates with the blockchain using **Web3.js** and the contract ABI.
 
