@@ -1,13 +1,3 @@
-#
-
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Voting+Backend+Service)
-
-![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/voting_backend)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/voting_backend?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/voting_backend?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/voting_backend)
-![GitHub License](https://img.shields.io/github/license/your-username/voting_backend)
-
 # Voting Backend (Express + Web3.js)
 
 A lightweight Node.js/Express backend that interacts with the **Voting.sol** smart contract deployed via Hardhat. It provides REST APIs for fetching candidates, adding candidates (owner-only), casting votes, and retrieving the winner. It is the backend service for the voting_hardhat project [here](https://github.com/DHRUVCHARNE/voting_hardhat)
